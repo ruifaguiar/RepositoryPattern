@@ -1,0 +1,12 @@
+/home/gamariel/Projects/Repository/bin/Debug/netstandard1.4/Repository.deps.json
+/home/gamariel/Projects/Repository/bin/Debug/netstandard1.4/Repository.dll
+/home/gamariel/Projects/Repository/bin/Debug/netstandard1.4/Repository.pdb
+/home/gamariel/Projects/Repository/obj/Debug/netstandard1.4/Repository.AssemblyInfo.cs
+/home/gamariel/Projects/Repository/obj/Debug/netstandard1.4/Repository.dll
+/home/gamariel/Projects/Repository/obj/Debug/netstandard1.4/Repository.pdb
+/home/gamariel/Projects/Repository/RepositoryPattern/bin/Debug/netstandard1.4/Repository.deps.json
+/home/gamariel/Projects/Repository/RepositoryPattern/bin/Debug/netstandard1.4/Repository.dll
+/home/gamariel/Projects/Repository/RepositoryPattern/bin/Debug/netstandard1.4/Repository.pdb
+/home/gamariel/Projects/Repository/RepositoryPattern/obj/Debug/netstandard1.4/Repository.AssemblyInfo.cs
+/home/gamariel/Projects/Repository/RepositoryPattern/obj/Debug/netstandard1.4/Repository.dll
+/home/gamariel/Projects/Repository/RepositoryPattern/obj/Debug/netstandard1.4/Repository.pdb
